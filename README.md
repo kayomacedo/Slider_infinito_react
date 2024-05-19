@@ -15,3 +15,5 @@ Slider simples infinito e responsivo feito em react
 1. Execute o projeto localmente: `npm start` ou `yarn start`
 2. Abra o navegador e acesse: `http://localhost:3000` (ou outra porta, dependendo da configuração)
 
+
+![Alt Text](https://github.com/kayomacedo/Slider_infinito_react/blob/main/screenshots/slider.gif)
